@@ -1,18 +1,19 @@
-# Submissions Repository:
+## Submissions Repository:
   [Submission Repository Link](https://github.com/Blaxat/Vetty)
+
 
 ## Tests
 
 ### Test 1
--[Repo Link](https://github.com/Blaxat/Vetty/tree/practical-test)
+ [Repo Link](https://github.com/Blaxat/Vetty/tree/practical-test)
  ![Image Description](Test-1.png)
 
 ### Test 2
--[Repo Link](https://github.com/Blaxat/Vetty/tree/practical-test-2)
+ [Repo Link](https://github.com/Blaxat/Vetty/tree/practical-test-2)
  ![Image Description](Test-2.png)
 
 ### Test 3
--[Repo Link](https://github.com/Blaxat/Vetty/tree/practical-test-3)
+ [Repo Link](https://github.com/Blaxat/Vetty/tree/practical-test-3)
 #### DockerFile
  ![DockerFile](DockerFile.png)
 
