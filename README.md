@@ -7,7 +7,7 @@ Test-2:
 
 
 Test-3:
-  ![Image Description](BuildImg&Run.png)
+  ![Build and Run Image](BuildImg&Run.png)
   
   
 
