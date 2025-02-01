@@ -2,13 +2,16 @@ Task 1: Git Basics
 1. Created a GitHub repository named 'Vetty'.
 2. Created a new branch named 'practical-test'.
 3. Added a sample file (hello.txt) with content "Hello, Vetty!" and pushed it to GitHub.
+https://github.com/Blaxat/Vetty/tree/practical-test
 
 Task 2: Basic Linux Commands
 1. Created a directory named 'VettyTest'.
 2. Created a script file (script.sh) that prints "Welcome to DevOps!" to the terminal.
 3. Made the script executable and ran it successfully.
+RepoLink:https://github.com/Blaxat/Vetty/tree/practical-test-2
 
 Task 3: Docker Basics
 1. Created a Dockerfile to run the latest NGINX server, exposed port 80, and started the server in the foreground.
 2. Built the Docker image and ran it successfully.
 3. Opened the NGINX default page successfully.
+RepoLink:https://github.com/Blaxat/Vetty/tree/practical-test-3
