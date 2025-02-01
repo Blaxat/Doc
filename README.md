@@ -1,18 +1,23 @@
-Test 1:
-  -![Image Description](Test-1.png)
+# Submissions Repository:
+  [Submission Repo: ](https://github.com/Blaxat/Vetty)
 
+## Tests
 
-Test-2:
-  ![Image Description](Test-2.png)
+### Test 1
+-[Repo: ](https://github.com/Blaxat/Vetty/tree/practical-test)
+- ![Image Description](Test-1.png)
 
+### Test 2
+-[Repo: ](https://github.com/Blaxat/Vetty/tree/practical-test-2)
+- ![Image Description](Test-2.png)
 
-Test-3:
-  - DockerFile  
-    -![DockerFile](DockerFile.png)
-  - Building and Running Image
-    -![Build and Run Image](BuildImg&Run.png)
-  - WebPage
-    - ![WebPage](WebPage.png)  
-  
+### Test 3
+-[Repo: ](https://github.com/Blaxat/Vetty/tree/practical-test-3)
+#### DockerFile
+- ![DockerFile](DockerFile.png)
 
-  
+#### Building and Running Image
+- ![Build and Run Image](BuildImg&Run.png)
+
+#### WebPage
+- ![WebPage](WebPage.png)
